@@ -34,15 +34,15 @@
     "node": ">=0.10.20"
   },
   "devDependencies": {
-    "mocha": "~2.0.1",
-    "ncp": "~1.0.1"
+    "mocha": "^5.2.0",
+    "ncp": "^2.0.0"
   },
   "dependencies": {
-    "aws-sdk": "~2.140.0",
-    "fd-slicer": "~1.0.1",
+    "aws-sdk": "^2.328.0",
+    "fd-slicer": "^1.1.0",
     "findit2": "~2.2.3",
     "graceful-fs": "~4.1.11",
-    "mime": "~1.4.1",
+    "mime": "^2.3.1",
     "mkdirp": "~0.5.1",
     "pend": "~1.2.0",
     "rimraf": "~2.6.2",
